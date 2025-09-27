@@ -13,4 +13,4 @@ Make semester decisions (course load + study focus) that change GPA, study hours
 
 ## How to run
 ```bash
-python3 BryantClarke_assignment_4.py
+BryantClarke_assignment_4.py
